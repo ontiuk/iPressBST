@@ -266,53 +266,12 @@ add_filter( 'ipress_fonts', function() {
 
 // Register Custom Post Types, override at lower priority
 add_filter( 'ipress_post_types', function() {
-	return [
-		'case_studies' => [
-			'singular' => _x( 'Case Study', 'Post Type Singular Name', 'ipress' ),
-			'plural' => _x( 'Case Studies', 'Post Type General Name', 'ipress' ),
-			'args'   => [
-				'public'       => true,
-				'rewrite' => ['slug' => 'case-study'],
-				'supports'	   => ['title', 'editor', 'thumbnail'],
-				'query_var'    => false,
-				'has_archive'  => true,
-				'menu_icon'	   => 'dashicons-calendar-alt',
-				'description'  => __( 'This is the Case Study post-type', 'ipress' ),
-				'labels'       => [
-					'name'          	 => 'Case Studies',
-					'singular_name' 	 => 'Case Study',
-					'add_new'            => 'Add Case Study',
-					'add_new_item' 	  	 => 'Add New Case Study',
-					'edit_item'     	 => 'Edit Case Study',
-					'new_item'      	 => 'New Case Study',
-					'view_item'     	 => 'View Case Study',
-					'view_items'    	 => 'View Case Studies',
-					'search_items'       => 'Search Case Studies',
-					'not_found'          => 'No Case Studies found',
-					'not_found_in_trash' => 'No Case Studies found in Trash',
-					'all_items'          => 'All Case Studies'
-				]	
-			]
-		]
-	];
+	return [];
 } );
 
 // Register taxonomies, override at lower priority
 add_filter( 'ipress_taxonomies', function() {
-	return [
-		'case_study_type' => [
-			'singular' => _x( 'Case Study Type', 'Taxonomy Singular Name', 'ipress' ),
-			'plural' => _x( 'Case Study Types', 'Taxonomy General Name', 'ipress' ),
-			'post_types' => [ 'case_studies' ],
-			'args' => [
-				'public'		=> false,
-				'description'	=> __( 'This is the Case Study Taxonomy', 'ipress' ),
-				'show_admin_column' => true
-			],
-			'sortable'	=> true, //optional
-			'filter'	=> true  //optional
-		]
-	];
+	return [];
 } );
 
 //----------------------------------------------
