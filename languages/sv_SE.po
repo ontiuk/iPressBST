@@ -1,0 +1,1081 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-20 22:06+0000\n"
+"PO-Revision-Date: 2022-03-20 22:10+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: sv\n"
+
+#: author.php:33
+#, php-format
+msgid "Author: <span class=\"post-author\">%s</span>"
+msgstr "Författare: <span class=\"post-author\">%s</span>"
+
+#: category.php:31
+#, php-format
+msgid "Category: %s"
+msgstr "Kategori: %s"
+
+#: comments.php:24
+msgid "Post Comments"
+msgstr "Skicka kommentarer"
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr "En tanke på &ldquo;%s&rdquo;"
+
+#: comments.php:43
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s kommentar"
+msgstr[1] "%s kommentarer"
+
+#: comments.php:50
+msgid "Leave a comment."
+msgstr "Lämna en kommentar."
+
+#: comments.php:76
+msgid "Newer Comments"
+msgstr "Nyare Kommentarer"
+
+#: comments.php:77
+msgid "Older Comments"
+msgstr "Äldre Kommentarer"
+
+#: comments.php:89 inc/functions/template.php:711
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: comments.php:103
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#: search.php:35
+#, php-format
+msgctxt "Search results count"
+msgid "Search: No Results for <span class=\"search-query\">%1$s</span>"
+msgstr "Sök: Inga resultat för <span class=\"search-query\">%1$s</span>"
+
+#: search.php:41
+#, php-format
+msgctxt "Search results count"
+msgid "Search: %1$s Result for <span class=\"search-query\">%2$s</span>"
+msgid_plural ""
+"Search: %1$s Results for <span class=\"search-query\">%2$s</span>"
+msgstr[0] ""
+"Sökning: %1$s Resultat för <span class=\"search-query\">%2$s</span>"
+msgstr[1] ""
+"Sökning: %1$s Resultat för <span class=\"search-query\">%2$s</span>"
+
+#: searchform.php:20
+msgctxt "Search label"
+msgid "Search for:"
+msgstr "Söka efter:"
+
+#: searchform.php:21
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+#: searchform.php:23
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Sök"
+
+#: tag.php:31
+#, php-format
+msgid "Tag: %s"
+msgstr "Märka: %s"
+
+#: taxonomy.php:33
+#, php-format
+msgid "Taxonomy: %1$s: %2$s"
+msgstr "Taxonomi: %1$s: %2$s"
+
+#: inc/config.php:240
+msgid "Primary Menu"
+msgstr "Primärmeny"
+
+#: inc/config.php:256
+msgid "Image in Post"
+msgstr "Bild i posten"
+
+#: inc/config.php:257
+msgid "Original size"
+msgstr "Originalstorlek"
+
+#: inc/config.php:269
+msgid "Primary Sidebar"
+msgstr "Primär sidofält"
+
+#: inc/config.php:270
+msgid "This is the primary sidebar."
+msgstr "Detta är det primära sidofältet."
+
+#: inc/config.php:274
+msgid "Header Sidebar"
+msgstr "Sidofält i sidhuvudet"
+
+#: inc/config.php:275
+msgid "This is the header sidebar."
+msgstr "Detta är sidofältet i sidhuvudet."
+
+#: inc/config.php:336
+msgid "Shop Page Sidebar"
+msgstr "Butikskategori Sidofält"
+
+#: inc/config.php:337
+msgid "This is the shop page sidebar for all layouts."
+msgstr "Detta är butiksidans sidofält för alla layouter."
+
+#: inc/config.php:341
+msgid "Shop Product Page Sidebar"
+msgstr "Handla produktsidans sidofält"
+
+#: inc/config.php:342
+msgid "This is the shop product page sidebar for all layouts."
+msgstr "Detta är sidopanelen för butiksproduktsidan för alla layouter."
+
+#: inc/config.php:346
+msgid "Shop Category Page Sidebar"
+msgstr "Butikskategori Sidofält"
+
+#: inc/config.php:347
+msgid "This is the shop category page sidebar for all layouts."
+msgstr "Detta är sidofältet för butikskategorisidan för alla layouter."
+
+#: inc/config.php:351
+msgid "Shop Cart & Checkout Page Sidebar"
+msgstr "Handla kundvagn och kassasida Sidofält"
+
+#: inc/config.php:352
+msgid "This is the shop cart & checkout page sidebar for all layouts."
+msgstr "Detta är butiksvagnens och kassans sidofält för alla layouter."
+
+#: inc/config.php:356
+msgid "Shop Account Page Sidebar"
+msgstr "Sidofält för shopparkontosida"
+
+#: inc/config.php:357
+msgid "This is the shop account page sidebar for all layouts."
+msgstr "Detta är sidofältet för butikskontosidan för alla layouter."
+
+#: inc/config.php:365 inc/config.php:370
+msgid "my-account"
+msgstr "mitt-konto"
+
+#: inc/template-functions.php:339 inc/functions/pagination.php:254
+msgctxt "Next post"
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/template-functions.php:340 inc/functions/pagination.php:255
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Tidigare"
+
+#: inc/classes/class-ipr-compat.php:105
+#, php-format
+msgid ""
+"PHP version <strong>%1$s</strong> is required You are using <strong>%2$s</"
+"strong>. Please update or contact your hosting company."
+msgstr ""
+"PHP-version <strong>%1$s </strong> krävs Du använder <strong>%2$s</"
+"strong>. Vänligen uppdatera eller kontakta ditt webbhotell."
+
+#: inc/classes/class-ipr-compat.php:139 inc/classes/class-ipr-compat.php:158
+#: inc/classes/class-ipr-compat.php:178
+#, php-format
+msgid ""
+"iPress requires at least WordPress version %1$s. You are running version "
+"%2$s."
+msgstr "iPress kräver minst WordPress-version %1$s. Du kör version %2$s."
+
+#: inc/classes/class-ipr-compat.php:195
+msgid ""
+"iPress Child Theme is active. This theme is intended for standalone use."
+msgstr ""
+"iPress Child Theme är aktivt. Detta tema är avsett för fristående "
+"användning."
+
+#: inc/classes/class-ipr-custom.php:215
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: inc/classes/class-ipr-custom.php:217 inc/classes/class-ipr-custom.php:597
+#, php-format
+msgid "Add New %s"
+msgstr "Lägg till ny %s"
+
+#: inc/classes/class-ipr-custom.php:219 inc/classes/class-ipr-custom.php:591
+#, php-format
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: inc/classes/class-ipr-custom.php:221 inc/classes/class-ipr-custom.php:595
+#, php-format
+msgid "Update %s"
+msgstr "Uppdatering %s"
+
+#: inc/classes/class-ipr-custom.php:223
+#, php-format
+msgid "New %s"
+msgstr "Ny %s"
+
+#: inc/classes/class-ipr-custom.php:225 inc/classes/class-ipr-custom.php:227
+#: inc/classes/class-ipr-custom.php:593
+#, php-format
+msgid "View %s"
+msgstr "Se %s"
+
+#: inc/classes/class-ipr-custom.php:229 inc/classes/class-ipr-custom.php:605
+#, php-format
+msgid "Search %s"
+msgstr "Sök %s"
+
+#: inc/classes/class-ipr-custom.php:231 inc/classes/class-ipr-custom.php:609
+#, php-format
+msgid "No %s found"
+msgstr "Inga %s hittades"
+
+#: inc/classes/class-ipr-custom.php:233
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Inga %s hittades i papperskorgen"
+
+#: inc/classes/class-ipr-custom.php:235 inc/classes/class-ipr-custom.php:603
+#, php-format
+msgid "Parent %s:"
+msgstr "Förälder %s:"
+
+#: inc/classes/class-ipr-custom.php:237 inc/classes/class-ipr-custom.php:589
+#, php-format
+msgid "All %s"
+msgstr "Alla %s"
+
+#: inc/classes/class-ipr-custom.php:239
+#, php-format
+msgid "%s Archives"
+msgstr "%s Arkiv"
+
+#: inc/classes/class-ipr-custom.php:241
+#, php-format
+msgid "%s Attributes"
+msgstr "%s Attribut"
+
+#: inc/classes/class-ipr-custom.php:243
+#, php-format
+msgid "Insert into %s"
+msgstr "Sätt i %s"
+
+#: inc/classes/class-ipr-custom.php:245
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Laddat upp till detta %s"
+
+#: inc/classes/class-ipr-custom.php:247
+#, php-format
+msgid "%s Featured Image"
+msgstr "%s Utvald bild"
+
+#: inc/classes/class-ipr-custom.php:249
+#, php-format
+msgid "Set %s Featured Image"
+msgstr "Ställ in %s Utvald bild"
+
+#: inc/classes/class-ipr-custom.php:251
+#, php-format
+msgid "Remove %s Featured Image"
+msgstr "Ta bort %s Utvald bild"
+
+#: inc/classes/class-ipr-custom.php:253
+#, php-format
+msgid "Use %s Featured Image"
+msgstr "Använd %s Utvald bild"
+
+#: inc/classes/class-ipr-custom.php:255
+#, php-format
+msgid "Filter %s list"
+msgstr "Filtrera %s-lista"
+
+#: inc/classes/class-ipr-custom.php:257
+#, php-format
+msgid "%s list"
+msgstr "%s lista"
+
+#: inc/classes/class-ipr-custom.php:259
+#, php-format
+msgid "%s list navigation"
+msgstr "%s lista navigering"
+
+#: inc/classes/class-ipr-custom.php:261
+#, php-format
+msgid "%s published"
+msgstr "%s publicerat"
+
+#: inc/classes/class-ipr-custom.php:263
+#, php-format
+msgid "%s published privately"
+msgstr "%s publiceras privat"
+
+#: inc/classes/class-ipr-custom.php:265
+#, php-format
+msgid "%s reverted to draft"
+msgstr "%s återgått till utkast"
+
+#: inc/classes/class-ipr-custom.php:267
+#, php-format
+msgid "%s scheduled"
+msgstr "%s planerad"
+
+#: inc/classes/class-ipr-custom.php:269
+#, php-format
+msgid "%s updated"
+msgstr "%s uppdaterad"
+
+#: inc/classes/class-ipr-custom.php:414
+#, php-format
+msgid "This is the %s post-type"
+msgstr "Detta är %s posttyp"
+
+#: inc/classes/class-ipr-custom.php:599
+#, php-format
+msgid "New %s Name"
+msgstr "Nytt %s namn"
+
+#: inc/classes/class-ipr-custom.php:601
+#, php-format
+msgid "Parent %s"
+msgstr "Förälder %s"
+
+#: inc/classes/class-ipr-custom.php:607
+#, php-format
+msgid "Popular %s"
+msgstr "Populära %s"
+
+#: inc/classes/class-ipr-custom.php:611
+#, php-format
+msgid "&#8617; Back to %s"
+msgstr "&#8617; Tillbaka till %s"
+
+#: inc/classes/class-ipr-custom.php:613
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Separera %s med komma-tecken"
+
+#: inc/classes/class-ipr-custom.php:615
+#, php-format
+msgid "Add or remove %s"
+msgstr "Lägg till eller ta bort %s"
+
+#: inc/classes/class-ipr-custom.php:617
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Välj bland de mest använda %s"
+
+#: inc/classes/class-ipr-custom.php:727
+#, php-format
+msgid "This is the %s taxonomy"
+msgstr "Detta är %s taxonomi"
+
+#: inc/classes/class-ipr-custom.php:935
+#, php-format
+msgid "Show All %s"
+msgstr "Visa alla %s"
+
+#: inc/classes/class-ipr-custom.php:1012
+#, php-format
+msgid "Error: Bad Post Types [%s]."
+msgstr "Fel: Dåliga inläggstyper [%s]."
+
+#: inc/classes/class-ipr-custom.php:1024
+#, php-format
+msgid "Error: Bad Taxonomies [%s]."
+msgstr "Fel: Dåliga taxonomier [%s]."
+
+#: inc/classes/class-ipr-customizer.php:339
+msgid "Background"
+msgstr "Bakgrund"
+
+#: inc/classes/class-ipr-customizer.php:349
+msgid "Header"
+msgstr "Rubrik"
+
+#: inc/classes/class-ipr-customizer.php:362
+msgid "Footer"
+msgstr "Sidfot"
+
+#: inc/classes/class-ipr-customizer.php:363
+msgid "Footer content"
+msgstr "Sidfotens innehåll"
+
+#: inc/classes/class-ipr-customizer.php:384
+msgid "Display Site Title & Tagline"
+msgstr "Visa webbplatsens titel och slagord"
+
+#: inc/classes/class-ipr-customizer.php:409
+msgid "Additional JS"
+msgstr "Ytterligare JS"
+
+#: inc/classes/class-ipr-customizer.php:410
+msgid "Add custom header & footer js."
+msgstr "Lägg till anpassat sidhuvud och sidfot js."
+
+#: inc/classes/class-ipr-customizer.php:432
+msgid "Custom header JS"
+msgstr "Anpassat header-JS"
+
+#: inc/classes/class-ipr-customizer.php:433
+msgid "Custom inline header js. Exclude <script></script> tag."
+msgstr "Anpassat inline-header-js. Uteslut taggen <script> </script>."
+
+#: inc/classes/class-ipr-customizer.php:459
+msgid "Custom footer JS"
+msgstr "Anpassad sidfot JS"
+
+#: inc/classes/class-ipr-customizer.php:460
+msgid "Custom inline footer js. Exclude <script></script> tag."
+msgstr "Anpassad fotfot js. Uteslut taggen <script></script>."
+
+#: inc/classes/class-ipr-customizer.php:486
+msgid "Custom admin header JS"
+msgstr "Anpassat admin-header-JS"
+
+#: inc/classes/class-ipr-customizer.php:487
+msgid "Custom inline admin header js. Exclude <script></script> tag."
+msgstr "Anpassat inline admin header js. Uteslut taggen <script></script>."
+
+#: inc/classes/class-ipr-customizer.php:513
+msgid "Custom admin footer JS"
+msgstr "Anpassat admin-sidfot-JS"
+
+#: inc/classes/class-ipr-customizer.php:514
+msgid "Custom inline admin footer js. Exclude <script></script> tag."
+msgstr "Anpassat inline admin sidfot js. Uteslut taggen <script></script>."
+
+#: inc/classes/class-ipr-customizer.php:544
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:59
+msgid "Theme"
+msgstr "Tema"
+
+#: inc/classes/class-ipr-customizer.php:545
+msgid "Add theme specific settings."
+msgstr "Lägg till temaspecifika inställningar."
+
+#: inc/classes/class-ipr-customizer.php:571
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:86
+msgid "Breadcrumbs"
+msgstr "Ströbröd"
+
+#: inc/classes/class-ipr-customizer.php:572
+msgid "Display or hide the inner page breadcrumbs."
+msgstr "Visa eller dölj brödsmulor på insidan."
+
+#: inc/classes/class-ipr-customizer.php:624
+msgid "Hero"
+msgstr "Hjälte"
+
+#: inc/classes/class-ipr-customizer.php:625
+msgid "Front page hero image and details"
+msgstr "Första sidan hjälte bild och detaljer"
+
+#: inc/classes/class-ipr-customizer.php:649
+msgid "Front Page Hero Area"
+msgstr "Första sidan hjälteområdet"
+
+#: inc/classes/class-ipr-customizer.php:650
+msgid "Display or hide the front page hero section."
+msgstr "Visa eller dölj startsidan för hjälte."
+
+#: inc/classes/class-ipr-customizer.php:695
+msgid "Hero Title"
+msgstr "Hjälttitel"
+
+#: inc/classes/class-ipr-customizer.php:696
+msgid "Modify the front page hero section title"
+msgstr "Ändra titeln på hjältesektionen på första sidan"
+
+#: inc/classes/class-ipr-customizer.php:720
+msgid "Hero Description"
+msgstr "Hjälte beskrivning"
+
+#: inc/classes/class-ipr-customizer.php:721
+msgid "Modify the front page hero section description"
+msgstr "Ändra beskrivningen av hjältesektionen på första sidan"
+
+#: inc/classes/class-ipr-customizer.php:745
+msgid "Button Page Link"
+msgstr "Länk till knappsida"
+
+#: inc/classes/class-ipr-customizer.php:746
+msgid "Link to page via button"
+msgstr "Länk till sidan via knappen"
+
+#: inc/classes/class-ipr-customizer.php:761 templates/front/hero.php:28
+#: templates/front/hero_2.php:28
+msgid "Learn More"
+msgstr "Lära sig mer"
+
+#: inc/classes/class-ipr-customizer.php:770
+msgid "Hero Button Text"
+msgstr "Hjälteknapptext"
+
+#: inc/classes/class-ipr-customizer.php:771
+msgid "Hero button text"
+msgstr "Hjälteknapptext"
+
+#: inc/classes/class-ipr-customizer.php:797
+msgid "Hero Image"
+msgstr "Hjältebild"
+
+#: inc/classes/class-ipr-customizer.php:798
+msgid "Add the hero section background image"
+msgstr "Lägg till bakgrundsbilden på hjältesektionen"
+
+#: inc/classes/class-ipr-customizer.php:829
+msgid "Hero Background Color"
+msgstr "Hjälta bakgrundsfärg"
+
+#: inc/classes/class-ipr-customizer.php:830
+msgid "Hero background color"
+msgstr "Hjälta bakgrundsfärg"
+
+#: inc/classes/class-ipr-customizer.php:854
+msgid "Hero Overlay"
+msgstr "Hjälten överlägg"
+
+#: inc/classes/class-ipr-customizer.php:855
+msgid "Display an overlay with opacity on the hero image."
+msgstr "Visa en överlägg med opacitet på hjältebilden."
+
+#: inc/classes/class-ipr-customizer.php:881
+msgid "Hero Overlay Color"
+msgstr "Heltoverlay färg"
+
+#: inc/classes/class-ipr-customizer.php:882
+msgid "Hero overlay color"
+msgstr "Heltoverlay färg"
+
+#: inc/classes/class-ipr-customizer.php:902
+msgid "Value must be between 0 and 100"
+msgstr "Värdet måste vara mellan 0 och 100"
+
+#: inc/classes/class-ipr-customizer.php:913
+msgid "Hero Overlay Opacity"
+msgstr "Heltöverdragsopacitet"
+
+#: inc/classes/class-ipr-customizer.php:914
+msgid "Hero overlay opacity"
+msgstr "Heltöverdragsopacitet"
+
+#: inc/classes/class-ipr-customizer.php:1104
+msgid "Comma separated list of category IDs only."
+msgstr "Kommaseparerad lista med endast kategori-ID."
+
+#: inc/classes/class-ipr-hooks.php:63
+msgid "Admin Phone No."
+msgstr "Administratörs telefonnummer."
+
+#: inc/classes/class-ipr-init.php:67
+msgid "Small"
+msgstr "Små"
+
+#: inc/classes/class-ipr-init.php:72
+msgid "Normal"
+msgstr "Vanligt"
+
+#: inc/classes/class-ipr-init.php:77
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/classes/class-ipr-init.php:82
+msgid "Large"
+msgstr "Stor"
+
+#: inc/classes/class-ipr-init.php:87
+msgid "Big"
+msgstr "Väldigt stor"
+
+#: inc/classes/class-ipr-init.php:234
+msgid "<strong>ERROR</strong>: Stop guessing!"
+msgstr "<strong>FEL</strong>: Sluta gissa!"
+
+#: inc/classes/class-ipr-sidebars.php:91
+#, php-format
+msgid "Footer %d"
+msgstr "Sidfot %d"
+
+#: inc/classes/class-ipr-sidebars.php:93
+#, php-format
+msgid "Footer sidebar area %d."
+msgstr "Sidfältets sidfält %d."
+
+#: inc/classes/class-ipr-sidebars.php:138
+#, php-format
+msgid "This is the %s sidebar description"
+msgstr "Detta är %s sidofältbeskrivning"
+
+#: inc/functions/pagination.php:45 inc/functions/pagination.php:89
+msgid "&larr; Older"
+msgstr "&larr; Äldre"
+
+#: inc/functions/pagination.php:46 inc/functions/pagination.php:90
+msgid "Newer &rarr;"
+msgstr "Nyare &rarr;"
+
+#: inc/functions/pagination.php:149
+msgid "&larr; %title"
+msgstr "&larr; %title"
+
+#: inc/functions/pagination.php:150
+msgid "%title &rarr;"
+msgstr "%title &rarr;"
+
+#: inc/functions/pagination.php:213 inc/functions/pagination.php:254
+msgid "Next post"
+msgstr "Nästa inlägg"
+
+#: inc/functions/pagination.php:214 inc/functions/pagination.php:255
+msgid "Previous post"
+msgstr "Tidigare inlägg"
+
+#: inc/functions/pagination.php:304
+msgid "Prev"
+msgstr "Föregående"
+
+#: inc/functions/pagination.php:305
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/functions/pagination.php:394
+msgid "Previous Page"
+msgstr "Föregående sida"
+
+#: inc/functions/pagination.php:411
+msgid "Current page"
+msgstr "Nuvarande sida"
+
+#: inc/functions/pagination.php:428
+msgid "Next Page"
+msgstr "Nästa sida"
+
+#: inc/functions/product.php:79
+#, php-format
+msgid "Theme Requires WooCommerce %1$s. Version %2$s installed"
+msgstr "Tema kräver Woocommerce %1$s. Version %2$s installerad"
+
+#: inc/functions/template.php:327 templates/loop/meta.php:49
+#: templates/single/meta.php:45
+msgid "Posted on"
+msgstr "Inlagd i"
+
+#: inc/functions/template.php:368
+#, php-format
+msgid "Posted on <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>"
+msgstr "Publicerat den <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>"
+
+#: inc/functions/template.php:431 templates/loop/meta.php:79
+#, php-format
+msgid ""
+"By <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link\" "
+"rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+msgstr ""
+"By <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link\" "
+"rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+
+#: inc/functions/template.php:559
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">\"%s\"</span>"
+msgstr "Redigera <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/functions/template.php:643
+msgid "Written by"
+msgstr "Skriven av"
+
+#: inc/functions/template.php:665 templates/loop/footer.php:29
+#: templates/single/taxonomy.php:23
+msgid "Posted in"
+msgstr "Inlagd i"
+
+#: inc/functions/template.php:688 templates/loop/footer.php:32
+#: templates/single/taxonomy.php:26
+msgid "Tagged in"
+msgstr "Taggad i"
+
+#: inc/lib/acf-config.php:38
+msgid "WooCommerce Shop Page"
+msgstr "WooCommerce butikssida"
+
+#: inc/lib/acf-config.php:39
+msgid "WooCommerce Cart Page"
+msgstr "WooCommerce kundvagnssida"
+
+#: inc/lib/acf-config.php:40
+msgid "WooCommerce Checkout Page"
+msgstr "WooCommerce kassasida"
+
+#: inc/lib/acf-config.php:41
+msgid "WooCommerce Account Page"
+msgstr "WooCommerce-kontosida"
+
+#: inc/lib/acf/sample.php:25
+msgid "Sample Section"
+msgstr "Provetikett"
+
+#: inc/lib/acf/sample.php:29
+msgid "Sample Label"
+msgstr "Provetikett"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:60
+msgid "Add theme specific Woocommerce settings."
+msgstr "Lägg till temaspecifika Woocommerce-inställningar."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:87
+msgid "Display or hide the store pages breadcrumbs."
+msgstr "Visa eller dölj brödsmulor på butikssidorna."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:128
+msgid "Product Pagination"
+msgstr "Produktpaginering"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:129
+msgid ""
+"Displays next and previous links on product pages. Hover reveals product "
+"details & thumbnail."
+msgstr ""
+"Visar nästa och föregående länkar på produktsidor. Hover avslöjar "
+"produktinformation och miniatyrbild."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:164
+msgid "Product Search"
+msgstr "Produktsökning"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:165
+msgid "Displays header product search box."
+msgstr "Visar sökrutan för rubrikprodukt."
+
+#: inc/woocommerce/class-ipr-woocommerce.php:654
+msgid "Add to basket"
+msgstr "Lägg i korgen"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:654
+#: inc/woocommerce/class-ipr-woocommerce.php:658
+#: inc/woocommerce/class-ipr-woocommerce.php:667
+msgid "Read more"
+msgstr "Läs mer"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:658
+msgid "Select options"
+msgstr "Välj inställningar"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:661
+msgid "View products"
+msgstr "Visa produkter"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:664
+msgctxt "placeholder"
+msgid "Buy product"
+msgstr "Köp produkt"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:876
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:993
+msgid "Orders"
+msgstr "Beställningar"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:994
+msgid "Total Spent"
+msgstr "Totalt Spenderat"
+
+#: inc/woocommerce/template-functions.php:68
+msgid "Shop by Category"
+msgstr "Handla efter kategori"
+
+#: inc/woocommerce/template-functions.php:89
+#: templates/global/404-product.php:31 templates/global/404-product.php:33
+msgid "Product Categories"
+msgstr "Produktkategori"
+
+#: inc/woocommerce/template-functions.php:125
+msgid "New Products"
+msgstr "Nya produkter"
+
+#: inc/woocommerce/template-functions.php:146
+msgid "Recent Products"
+msgstr "Nya produkter"
+
+#: inc/woocommerce/template-functions.php:183
+msgid "We Recommend"
+msgstr "Vi rekommenderar"
+
+#: inc/woocommerce/template-functions.php:205
+msgid "Featured Products"
+msgstr "Utvalda produkter"
+
+#: inc/woocommerce/template-functions.php:241
+#: inc/woocommerce/template-functions.php:262
+#: templates/global/404-product.php:38 templates/global/404-product.php:40
+msgid "Popular Products"
+msgstr "Populära produkter"
+
+#: inc/woocommerce/template-functions.php:299
+msgid "On Sale"
+msgstr "Till salu"
+
+#: inc/woocommerce/template-functions.php:321
+msgid "On Sale Products"
+msgstr "Till salu produkter"
+
+#: inc/woocommerce/template-functions.php:357
+msgid "Best Sellers"
+msgstr "Bästsäljare"
+
+#: inc/woocommerce/template-functions.php:378
+msgid "Best Selling Products"
+msgstr "Bästsäljande produkter"
+
+#: templates/front/edit-link.php:22 templates/page/edit-link.php:22
+#: templates/single/edit-link.php:21
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Redigera <span class=\"screen-reader-text\">%s</span>"
+
+#: templates/global/404-product.php:22 templates/global/404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#: templates/global/404-product.php:23 templates/global/404.php:23
+msgid "Return home?"
+msgstr "Återvända hem?"
+
+#: templates/global/404-product.php:28 templates/global/404.php:27
+msgid "Nothing found at this location."
+msgstr "Ingenting hittades på den här platsen."
+
+#: templates/global/content-none.php:22
+msgid "Nothing to display."
+msgstr "Inget att visa."
+
+#: templates/global/content-none.php:33
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Är du redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång "
+"här</a>."
+
+#: templates/global/content-none.php:47
+msgid ""
+"Sorry, nothing matched your search terms. Please try again with different "
+"keywords."
+msgstr ""
+"Tyvärr, ingenting matchade dina söktermer. Försök igen med olika sökord."
+
+#: templates/global/content-none.php:52
+msgid ""
+"We can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr "Vi kan inte hitta det du letar efter. Kanske kan sökning hjälpa."
+
+#: templates/global/loader.php:17
+msgid "loading..."
+msgstr "läser in..."
+
+#: templates/global/skip-links.php:16
+msgid "Skip to navigation"
+msgstr "Hoppa till navigering"
+
+#: templates/global/skip-links.php:17
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#: templates/global/breadcrumbs/archive-cpt.php:24
+#: templates/global/breadcrumbs/archive.php:20
+#: templates/global/breadcrumbs/author.php:20
+#: templates/global/breadcrumbs/category.php:20
+#: templates/global/breadcrumbs/date.php:31
+#: templates/global/breadcrumbs/home.php:20
+#: templates/global/breadcrumbs/page.php:20
+#: templates/global/breadcrumbs/search.php:20
+#: templates/global/breadcrumbs/single.php:20
+#: templates/global/breadcrumbs/tag.php:20
+#: templates/global/breadcrumbs/taxonomy.php:55
+#: woocommerce/global/breadcrumbs/account.php:24
+#: woocommerce/global/breadcrumbs/cart.php:25
+#: woocommerce/global/breadcrumbs/checkout.php:25
+msgid "Home"
+msgstr "Hem"
+
+#: templates/global/breadcrumbs/archive.php:21
+msgid "Archive"
+msgstr "Arkiv"
+
+#: templates/global/breadcrumbs/author.php:21
+msgid "Author"
+msgstr "Författare"
+
+#: templates/global/breadcrumbs/category.php:21
+msgid "Category"
+msgstr "Kategori"
+
+#: templates/global/breadcrumbs/date.php:18
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: templates/global/breadcrumbs/date.php:21
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: templates/global/breadcrumbs/date.php:24
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: templates/global/breadcrumbs/search.php:21
+msgid "Search"
+msgstr "Sök"
+
+#: templates/global/breadcrumbs/tag.php:21
+msgid "Tag"
+msgstr "Märka"
+
+#: templates/global/breadcrumbs/taxonomy.php:19
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Asides"
+
+#: templates/global/breadcrumbs/taxonomy.php:22
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Gallerier"
+
+#: templates/global/breadcrumbs/taxonomy.php:25
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Bilder"
+
+#: templates/global/breadcrumbs/taxonomy.php:28
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Videoklipp"
+
+#: templates/global/breadcrumbs/taxonomy.php:31
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citat"
+
+#: templates/global/breadcrumbs/taxonomy.php:34
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Länkar"
+
+#: templates/global/breadcrumbs/taxonomy.php:37
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Status"
+
+#: templates/global/breadcrumbs/taxonomy.php:40
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: templates/global/breadcrumbs/taxonomy.php:43
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Chattar"
+
+#: templates/global/footer/site-credit.php:32
+#, php-format
+msgid "Theme %1$s by %2$s."
+msgstr "Tema %1$s av %2$s."
+
+#: templates/global/header/site-navigation.php:19
+msgid "Primary Navigation"
+msgstr "Primärnavigering"
+
+#: templates/global/header/site-navigation.php:20
+msgid "Menu"
+msgstr "Meny"
+
+#: templates/loop/content.php:26 templates/single/content.php:24
+#, php-format
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: templates/loop/content.php:37 templates/page/content.php:27
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: templates/loop/sticky.php:24
+msgctxt "post"
+msgid "Featured"
+msgstr "Dagens"
+
+#: templates/single/meta.php:75
+#, php-format
+msgid ""
+"By <a href=\"%1$s\" class=\"post-author-link\" rel=\"author\"><span class="
+"\"post-author-name\">%2$s</span></a>"
+msgstr ""
+"By <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link\" "
+"rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+
+#: woocommerce/header-cart-link.php:29
+msgid "View your basket"
+msgstr "Se din korg"
+
+#: woocommerce/global/breadcrumb.php:72
+#, php-format
+msgid "No Woocommerce Breadcrumb for this type [%s] yet!"
+msgstr "Ingen Woocommerce Breadcrumb för den här typen [%s] än!"
+
+#: woocommerce/global/quantity-input.php:20
+#: woocommerce/global/quantity-input.php:41
+#, php-format
+msgid "%s quantity"
+msgstr "%s antal"
+
+#: woocommerce/global/quantity-input.php:20
+msgid "Quantity"
+msgstr "Antal"
+
+#: woocommerce/global/quantity-input.php:35
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Antal"
+
+#: woocommerce/global/breadcrumbs/account.php:25
+msgid "Account"
+msgstr "Konto"
+
+#: woocommerce/single-product/pagination.php:29
+msgid "More products"
+msgstr "Fler produkter"
+
+#: woocommerce/single-product/pagination.php:36
+msgid "Display Previous Product"
+msgstr "Visa tidigare produkt"
+
+#: woocommerce/single-product/pagination.php:48
+msgid "Display Next Product"
+msgstr "Visa nästa produkt"

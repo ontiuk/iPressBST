@@ -1,0 +1,1103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-20 22:06+0000\n"
+"PO-Revision-Date: 2022-03-20 22:09+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Language: fr\n"
+
+#: author.php:33
+#, php-format
+msgid "Author: <span class=\"post-author\">%s</span>"
+msgstr "Auteur: <span class=\"post-author\">%s</span>"
+
+#: category.php:31
+#, php-format
+msgid "Category: %s"
+msgstr "Catégorie: %s"
+
+#: comments.php:24
+msgid "Post Comments"
+msgstr "Posta commenti"
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr "Une pensée sur &ldquo;%s&rdquo;"
+
+#: comments.php:43
+#, php-format
+msgctxt "Comments title"
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%1$s commenter"
+msgstr[1] "%1$s commentaires"
+
+#: comments.php:50
+msgid "Leave a comment."
+msgstr "Laissez un commentaire."
+
+#: comments.php:76
+msgid "Newer Comments"
+msgstr "Commentaires Récents"
+
+#: comments.php:77
+msgid "Older Comments"
+msgstr "Commentaires Plus Anciens"
+
+#: comments.php:89 inc/functions/template.php:711
+msgid "Comments"
+msgstr "Commentaires"
+
+#: comments.php:103
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: search.php:35
+#, php-format
+msgctxt "Search results count"
+msgid "Search: No Results for <span class=\"search-query\">%1$s</span>"
+msgstr ""
+"Recherche : aucun résultat pour <span class=\"search-query\">%1$s</span>"
+
+#: search.php:41
+#, php-format
+msgctxt "Search results count"
+msgid "Search: %1$s Result for <span class=\"search-query\">%2$s</span>"
+msgid_plural ""
+"Search: %1$s Results for <span class=\"search-query\">%2$s</span>"
+msgstr[0] ""
+"Recherche: %1$s Résultats pour <span class=\"search-query\">%2$s</span>"
+msgstr[1] ""
+"Recherche: %1$s Résultats pour <span class=\"search-query\">%2$s</span>"
+
+#: searchform.php:20
+msgctxt "Search label"
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: searchform.php:21
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Rechercher &hellip;"
+
+#: searchform.php:23
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Chercher"
+
+#: tag.php:31
+#, php-format
+msgid "Tag: %s"
+msgstr "Étiquette: %s"
+
+#: taxonomy.php:33
+#, php-format
+msgid "Taxonomy: %1$s: %2$s"
+msgstr "Taxonomie: %1$s: %2$s"
+
+#: inc/config.php:240
+msgid "Primary Menu"
+msgstr "Menu Primaire"
+
+#: inc/config.php:256
+msgid "Image in Post"
+msgstr "Image dans Post"
+
+#: inc/config.php:257
+msgid "Original size"
+msgstr "Format original"
+
+#: inc/config.php:269
+msgid "Primary Sidebar"
+msgstr "Barre Latérale Principale"
+
+#: inc/config.php:270
+msgid "This is the primary sidebar."
+msgstr "Il s'agit de la barre latérale principale."
+
+#: inc/config.php:274
+msgid "Header Sidebar"
+msgstr "Barre latérale d'en-tête"
+
+#: inc/config.php:275
+msgid "This is the header sidebar."
+msgstr "Il s'agit de la barre latérale d'en-tête."
+
+#: inc/config.php:336
+msgid "Shop Page Sidebar"
+msgstr "Barre latérale de la page d'achat"
+
+#: inc/config.php:337
+msgid "This is the shop page sidebar for all layouts."
+msgstr ""
+"Il s'agit de la barre latérale de la page de la boutique pour toutes les "
+"mises en page."
+
+#: inc/config.php:341
+msgid "Shop Product Page Sidebar"
+msgstr "Barre latérale de la page de produit de la boutique"
+
+#: inc/config.php:342
+msgid "This is the shop product page sidebar for all layouts."
+msgstr ""
+"Il s'agit de la barre latérale de la page de produit de la boutique pour "
+"toutes les mises en page."
+
+#: inc/config.php:346
+msgid "Shop Category Page Sidebar"
+msgstr "Barre latérale de la page de catégorie de la boutique"
+
+#: inc/config.php:347
+msgid "This is the shop category page sidebar for all layouts."
+msgstr ""
+"Il s'agit de la barre latérale de la page de catégorie de boutique pour "
+"toutes les mises en page."
+
+#: inc/config.php:351
+msgid "Shop Cart & Checkout Page Sidebar"
+msgstr "Panier et barre latérale de la page de paiement"
+
+#: inc/config.php:352
+msgid "This is the shop cart & checkout page sidebar for all layouts."
+msgstr ""
+"Il s'agit de la barre latérale du panier et de la page de paiement pour "
+"toutes les mises en page."
+
+#: inc/config.php:356
+msgid "Shop Account Page Sidebar"
+msgstr "Barre latérale de la page du compte de la boutique"
+
+#: inc/config.php:357
+msgid "This is the shop account page sidebar for all layouts."
+msgstr ""
+"Il s'agit de la barre latérale de la page du compte de la boutique pour "
+"toutes les mises en page."
+
+#: inc/config.php:365 inc/config.php:370
+msgid "my-account"
+msgstr "mon-compte"
+
+#: inc/template-functions.php:339 inc/functions/pagination.php:254
+msgctxt "Next post"
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/template-functions.php:340 inc/functions/pagination.php:255
+msgctxt "Previous post"
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/classes/class-ipr-compat.php:105
+#, php-format
+msgid ""
+"PHP version <strong>%1$s</strong> is required You are using <strong>%2$s</"
+"strong>. Please update or contact your hosting company."
+msgstr ""
+"La version PHP <strong>%1$s</strong> est requise. Vous utilisez <strong>"
+"%2$s</strong>. Veuillez mettre à jour ou contacter votre hébergeur."
+
+#: inc/classes/class-ipr-compat.php:139 inc/classes/class-ipr-compat.php:158
+#: inc/classes/class-ipr-compat.php:178
+#, php-format
+msgid ""
+"iPress requires at least WordPress version %1$s. You are running version "
+"%2$s."
+msgstr ""
+"iPress nécessite au moins la version WordPress %1$s. Vous utilisez la "
+"version %2$s."
+
+#: inc/classes/class-ipr-compat.php:195
+msgid ""
+"iPress Child Theme is active. This theme is intended for standalone use."
+msgstr ""
+"Le thème enfant iPress est actif. Ce thème est destiné à une utilisation "
+"autonome."
+
+#: inc/classes/class-ipr-custom.php:215
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: inc/classes/class-ipr-custom.php:217 inc/classes/class-ipr-custom.php:597
+#, php-format
+msgid "Add New %s"
+msgstr "Ajouter un Nouveau %s"
+
+#: inc/classes/class-ipr-custom.php:219 inc/classes/class-ipr-custom.php:591
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/classes/class-ipr-custom.php:221 inc/classes/class-ipr-custom.php:595
+#, php-format
+msgid "Update %s"
+msgstr "Mettre à jour %s"
+
+#: inc/classes/class-ipr-custom.php:223
+#, php-format
+msgid "New %s"
+msgstr "Nouvelles %s"
+
+#: inc/classes/class-ipr-custom.php:225 inc/classes/class-ipr-custom.php:227
+#: inc/classes/class-ipr-custom.php:593
+#, php-format
+msgid "View %s"
+msgstr "Voir %s"
+
+#: inc/classes/class-ipr-custom.php:229 inc/classes/class-ipr-custom.php:605
+#, php-format
+msgid "Search %s"
+msgstr "Chercher %s"
+
+#: inc/classes/class-ipr-custom.php:231 inc/classes/class-ipr-custom.php:609
+#, php-format
+msgid "No %s found"
+msgstr "Aucun %s trouvé"
+
+#: inc/classes/class-ipr-custom.php:233
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Aucun %s trouvé dans la corbeille"
+
+#: inc/classes/class-ipr-custom.php:235 inc/classes/class-ipr-custom.php:603
+#, php-format
+msgid "Parent %s:"
+msgstr "Parent %s:"
+
+#: inc/classes/class-ipr-custom.php:237 inc/classes/class-ipr-custom.php:589
+#, php-format
+msgid "All %s"
+msgstr "Tous %s"
+
+#: inc/classes/class-ipr-custom.php:239
+#, php-format
+msgid "%s Archives"
+msgstr "%s Archives"
+
+#: inc/classes/class-ipr-custom.php:241
+#, php-format
+msgid "%s Attributes"
+msgstr "%s Attributs"
+
+#: inc/classes/class-ipr-custom.php:243
+#, php-format
+msgid "Insert into %s"
+msgstr "Insérer dans %s"
+
+#: inc/classes/class-ipr-custom.php:245
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Téléchargé sur ce %s"
+
+#: inc/classes/class-ipr-custom.php:247
+#, php-format
+msgid "%s Featured Image"
+msgstr "%s Image en vedette"
+
+#: inc/classes/class-ipr-custom.php:249
+#, php-format
+msgid "Set %s Featured Image"
+msgstr "Définir %s Image Sélectionnée"
+
+#: inc/classes/class-ipr-custom.php:251
+#, php-format
+msgid "Remove %s Featured Image"
+msgstr "Supprimer %s Image Sélectionnée"
+
+#: inc/classes/class-ipr-custom.php:253
+#, php-format
+msgid "Use %s Featured Image"
+msgstr "Utiliser %s Image Sélectionnée"
+
+#: inc/classes/class-ipr-custom.php:255
+#, php-format
+msgid "Filter %s list"
+msgstr "Filtrer la liste %s"
+
+#: inc/classes/class-ipr-custom.php:257
+#, php-format
+msgid "%s list"
+msgstr "%s liste"
+
+#: inc/classes/class-ipr-custom.php:259
+#, php-format
+msgid "%s list navigation"
+msgstr "Navigation dans la liste %s"
+
+#: inc/classes/class-ipr-custom.php:261
+#, php-format
+msgid "%s published"
+msgstr "%s publié"
+
+#: inc/classes/class-ipr-custom.php:263
+#, php-format
+msgid "%s published privately"
+msgstr "%s publié en privé"
+
+#: inc/classes/class-ipr-custom.php:265
+#, php-format
+msgid "%s reverted to draft"
+msgstr "%s est revenu au projet"
+
+#: inc/classes/class-ipr-custom.php:267
+#, php-format
+msgid "%s scheduled"
+msgstr "%s programmé"
+
+#: inc/classes/class-ipr-custom.php:269
+#, php-format
+msgid "%s updated"
+msgstr "%s mis à jour"
+
+#: inc/classes/class-ipr-custom.php:414
+#, php-format
+msgid "This is the %s post-type"
+msgstr "Ceci est le post-type %s"
+
+#: inc/classes/class-ipr-custom.php:599
+#, php-format
+msgid "New %s Name"
+msgstr "Nouveau %s Nom"
+
+#: inc/classes/class-ipr-custom.php:601
+#, php-format
+msgid "Parent %s"
+msgstr "Parent %s"
+
+#: inc/classes/class-ipr-custom.php:607
+#, php-format
+msgid "Popular %s"
+msgstr "Populaire %s"
+
+#: inc/classes/class-ipr-custom.php:611
+#, php-format
+msgid "&#8617; Back to %s"
+msgstr "&#8617; Retour à %s"
+
+#: inc/classes/class-ipr-custom.php:613
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Séparez %s par des virgules"
+
+#: inc/classes/class-ipr-custom.php:615
+#, php-format
+msgid "Add or remove %s"
+msgstr "Ajouter ou supprimer %s"
+
+#: inc/classes/class-ipr-custom.php:617
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Choisissez parmi les %s les plus utilisés"
+
+#: inc/classes/class-ipr-custom.php:727
+#, php-format
+msgid "This is the %s taxonomy"
+msgstr "Ceci est la taxonomie %s"
+
+#: inc/classes/class-ipr-custom.php:935
+#, php-format
+msgid "Show All %s"
+msgstr "Afficher Tout %s"
+
+#: inc/classes/class-ipr-custom.php:1012
+#, php-format
+msgid "Error: Bad Post Types [%s]."
+msgstr "Erreur: types de publication incorrects [%s]."
+
+#: inc/classes/class-ipr-custom.php:1024
+#, php-format
+msgid "Error: Bad Taxonomies [%s]."
+msgstr "Erreur: Mauvaises Taxonomies [%s]"
+
+#: inc/classes/class-ipr-customizer.php:339
+msgid "Background"
+msgstr "Fond"
+
+#: inc/classes/class-ipr-customizer.php:349
+msgid "Header"
+msgstr "Entête"
+
+#: inc/classes/class-ipr-customizer.php:362
+msgid "Footer"
+msgstr "Bas de page"
+
+#: inc/classes/class-ipr-customizer.php:363
+msgid "Footer content"
+msgstr "Contenu du pied de page"
+
+#: inc/classes/class-ipr-customizer.php:384
+msgid "Display Site Title & Tagline"
+msgstr "Afficher le titre et le slogan du site"
+
+#: inc/classes/class-ipr-customizer.php:409
+msgid "Additional JS"
+msgstr "JS supplémentaire"
+
+#: inc/classes/class-ipr-customizer.php:410
+msgid "Add custom header & footer js."
+msgstr "Ajoutez un en-tête et un pied de page js personnalisés."
+
+#: inc/classes/class-ipr-customizer.php:432
+msgid "Custom header JS"
+msgstr "En-tête personnalisé JS"
+
+#: inc/classes/class-ipr-customizer.php:433
+msgid "Custom inline header js. Exclude <script></script> tag."
+msgstr ""
+"En-tête en ligne personnalisé js. Exclure la balise <script></script>."
+
+#: inc/classes/class-ipr-customizer.php:459
+msgid "Custom footer JS"
+msgstr "Pied de page personnalisé JS"
+
+#: inc/classes/class-ipr-customizer.php:460
+msgid "Custom inline footer js. Exclude <script></script> tag."
+msgstr ""
+"Pied de page personnalisé en js. Exclure la balise <script></script>."
+
+#: inc/classes/class-ipr-customizer.php:486
+msgid "Custom admin header JS"
+msgstr "En-tête administrateur personnalisé JS"
+
+#: inc/classes/class-ipr-customizer.php:487
+msgid "Custom inline admin header js. Exclude <script></script> tag."
+msgstr ""
+"En-tête d'administration en ligne personnalisé js. Exclure la balise "
+"<script></script>."
+
+#: inc/classes/class-ipr-customizer.php:513
+msgid "Custom admin footer JS"
+msgstr "Pied de page d'administration personnalisé JS"
+
+#: inc/classes/class-ipr-customizer.php:514
+msgid "Custom inline admin footer js. Exclude <script></script> tag."
+msgstr ""
+"Pied de page d'administration en ligne personnalisé js. Exclure la balise "
+"<script></script>."
+
+#: inc/classes/class-ipr-customizer.php:544
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:59
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/classes/class-ipr-customizer.php:545
+msgid "Add theme specific settings."
+msgstr "Ajoutez des paramètres spécifiques au thème."
+
+#: inc/classes/class-ipr-customizer.php:571
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:86
+msgid "Breadcrumbs"
+msgstr "Chapelure"
+
+#: inc/classes/class-ipr-customizer.php:572
+msgid "Display or hide the inner page breadcrumbs."
+msgstr "Affichez ou masquez le fil d'Ariane de la page intérieure."
+
+#: inc/classes/class-ipr-customizer.php:624
+msgid "Hero"
+msgstr "Héros"
+
+#: inc/classes/class-ipr-customizer.php:625
+msgid "Front page hero image and details"
+msgstr "Image et détails de la première page du héros"
+
+#: inc/classes/class-ipr-customizer.php:649
+msgid "Front Page Hero Area"
+msgstr "Zone de héros de la première page"
+
+#: inc/classes/class-ipr-customizer.php:650
+msgid "Display or hide the front page hero section."
+msgstr "Affichez ou masquez la section héros de la première page."
+
+#: inc/classes/class-ipr-customizer.php:695
+msgid "Hero Title"
+msgstr "Titre du héros"
+
+#: inc/classes/class-ipr-customizer.php:696
+msgid "Modify the front page hero section title"
+msgstr "Modifier le titre de la section héros de la première page"
+
+#: inc/classes/class-ipr-customizer.php:720
+msgid "Hero Description"
+msgstr "Description du héros"
+
+#: inc/classes/class-ipr-customizer.php:721
+msgid "Modify the front page hero section description"
+msgstr "Modifier la description de la section héros de la première page"
+
+#: inc/classes/class-ipr-customizer.php:745
+msgid "Button Page Link"
+msgstr "Lien vers la page du bouton"
+
+#: inc/classes/class-ipr-customizer.php:746
+msgid "Link to page via button"
+msgstr "Lien vers la page via le bouton"
+
+#: inc/classes/class-ipr-customizer.php:761 templates/front/hero.php:28
+#: templates/front/hero_2.php:28
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: inc/classes/class-ipr-customizer.php:770
+msgid "Hero Button Text"
+msgstr "Texte du bouton héros"
+
+#: inc/classes/class-ipr-customizer.php:771
+msgid "Hero button text"
+msgstr "Texte du bouton héros"
+
+#: inc/classes/class-ipr-customizer.php:797
+msgid "Hero Image"
+msgstr "Image du héros"
+
+#: inc/classes/class-ipr-customizer.php:798
+msgid "Add the hero section background image"
+msgstr "Ajouter l'image d'arrière-plan de la section des héros"
+
+#: inc/classes/class-ipr-customizer.php:829
+msgid "Hero Background Color"
+msgstr "Couleur de fond du héros"
+
+#: inc/classes/class-ipr-customizer.php:830
+msgid "Hero background color"
+msgstr "Couleur de fond du héros"
+
+#: inc/classes/class-ipr-customizer.php:854
+msgid "Hero Overlay"
+msgstr "Superposition de héros"
+
+#: inc/classes/class-ipr-customizer.php:855
+msgid "Display an overlay with opacity on the hero image."
+msgstr "Affichez une superposition avec opacité sur l'image du héros."
+
+#: inc/classes/class-ipr-customizer.php:881
+msgid "Hero Overlay Color"
+msgstr "Couleur de superposition de héros"
+
+#: inc/classes/class-ipr-customizer.php:882
+msgid "Hero overlay color"
+msgstr "Couleur de superposition de héros"
+
+#: inc/classes/class-ipr-customizer.php:902
+msgid "Value must be between 0 and 100"
+msgstr "La valeur doit être comprise entre 0 et 100"
+
+#: inc/classes/class-ipr-customizer.php:913
+msgid "Hero Overlay Opacity"
+msgstr "Opacité de superposition de héros"
+
+#: inc/classes/class-ipr-customizer.php:914
+msgid "Hero overlay opacity"
+msgstr "Opacité de superposition de héros"
+
+#: inc/classes/class-ipr-customizer.php:1104
+msgid "Comma separated list of category IDs only."
+msgstr "Liste séparée par des virgules des ID de catégorie uniquement."
+
+#: inc/classes/class-ipr-hooks.php:63
+msgid "Admin Phone No."
+msgstr "N° de téléphone de l'administrateur"
+
+#: inc/classes/class-ipr-init.php:67
+msgid "Small"
+msgstr "Petite"
+
+#: inc/classes/class-ipr-init.php:72
+msgid "Normal"
+msgstr "Normale"
+
+#: inc/classes/class-ipr-init.php:77
+msgid "Medium"
+msgstr "Moyen"
+
+#: inc/classes/class-ipr-init.php:82
+msgid "Large"
+msgstr "Grand"
+
+#: inc/classes/class-ipr-init.php:87
+msgid "Big"
+msgstr "Gros"
+
+#: inc/classes/class-ipr-init.php:234
+msgid "<strong>ERROR</strong>: Stop guessing!"
+msgstr "<strong>ERREUR</ strong>: Cessez de deviner!"
+
+#: inc/classes/class-ipr-sidebars.php:91
+#, php-format
+msgid "Footer %d"
+msgstr "Pied de page %d"
+
+#: inc/classes/class-ipr-sidebars.php:93
+#, php-format
+msgid "Footer sidebar area %d."
+msgstr "Zone de la barre latérale du pied de page %d."
+
+#: inc/classes/class-ipr-sidebars.php:138
+#, php-format
+msgid "This is the %s sidebar description"
+msgstr "Ceci est la description de la barre latérale de %s"
+
+#: inc/functions/pagination.php:45 inc/functions/pagination.php:89
+msgid "&larr; Older"
+msgstr "&larr; Plus âgée"
+
+#: inc/functions/pagination.php:46 inc/functions/pagination.php:90
+msgid "Newer &rarr;"
+msgstr "Plus recent &rarr;"
+
+#: inc/functions/pagination.php:149
+msgid "&larr; %title"
+msgstr "&larr; %title"
+
+#: inc/functions/pagination.php:150
+msgid "%title &rarr;"
+msgstr "%title &rarr;"
+
+#: inc/functions/pagination.php:213 inc/functions/pagination.php:254
+msgid "Next post"
+msgstr "Prochain article"
+
+#: inc/functions/pagination.php:214 inc/functions/pagination.php:255
+msgid "Previous post"
+msgstr "Post précédent"
+
+#: inc/functions/pagination.php:304
+msgid "Prev"
+msgstr "Préc"
+
+#: inc/functions/pagination.php:305
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/functions/pagination.php:394
+msgid "Previous Page"
+msgstr "Page Précédente"
+
+#: inc/functions/pagination.php:411
+msgid "Current page"
+msgstr "Page actuelle"
+
+#: inc/functions/pagination.php:428
+msgid "Next Page"
+msgstr "Page suivante"
+
+#: inc/functions/product.php:79
+#, php-format
+msgid "Theme Requires WooCommerce %1$s. Version %2$s installed"
+msgstr "Le thème nécessite WooCommerce %1$s. Version %2$s installée"
+
+#: inc/functions/template.php:327 templates/loop/meta.php:49
+#: templates/single/meta.php:45
+msgid "Posted on"
+msgstr "Publié dans"
+
+#: inc/functions/template.php:368
+#, php-format
+msgid "Posted on <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>"
+msgstr "Publié sur <a href=\"%1$s\" rel=\"bookmark\">%2$s</a>"
+
+#: inc/functions/template.php:431 templates/loop/meta.php:79
+#, php-format
+msgid ""
+"By <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link\" "
+"rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+msgstr ""
+"Par <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link"
+"\" rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+
+#: inc/functions/template.php:559
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">\"%s\"</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: inc/functions/template.php:643
+msgid "Written by"
+msgstr "Écrit par"
+
+#: inc/functions/template.php:665 templates/loop/footer.php:29
+#: templates/single/taxonomy.php:23
+msgid "Posted in"
+msgstr "Publié dans"
+
+#: inc/functions/template.php:688 templates/loop/footer.php:32
+#: templates/single/taxonomy.php:26
+msgid "Tagged in"
+msgstr "Etiqueté dans"
+
+#: inc/lib/acf-config.php:38
+msgid "WooCommerce Shop Page"
+msgstr "Page de la boutique WooCommerce"
+
+#: inc/lib/acf-config.php:39
+msgid "WooCommerce Cart Page"
+msgstr "Page du panier WooCommerce"
+
+#: inc/lib/acf-config.php:40
+msgid "WooCommerce Checkout Page"
+msgstr "Page de paiement WooCommerce"
+
+#: inc/lib/acf-config.php:41
+msgid "WooCommerce Account Page"
+msgstr "Page de compte WooCommerce"
+
+#: inc/lib/acf/sample.php:25
+msgid "Sample Section"
+msgstr "Exemple de section"
+
+#: inc/lib/acf/sample.php:29
+msgid "Sample Label"
+msgstr "Exemple d'étiquette"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:60
+msgid "Add theme specific Woocommerce settings."
+msgstr "Ajoutez des paramètres Woocommerce spécifiques au thème."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:87
+msgid "Display or hide the store pages breadcrumbs."
+msgstr "Affichez ou masquez le fil d'Ariane des pages du magasin."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:128
+msgid "Product Pagination"
+msgstr "Pagination du produit"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:129
+msgid ""
+"Displays next and previous links on product pages. Hover reveals product "
+"details & thumbnail."
+msgstr ""
+"Affiche les liens suivants et précédents sur les pages de produits. Le "
+"survol révèle les détails et la vignette du produit."
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:164
+msgid "Product Search"
+msgstr "Recherche de produit"
+
+#: inc/woocommerce/class-ipr-woocommerce-customizer.php:165
+msgid "Displays header product search box."
+msgstr "Affiche la zone de recherche de produit d'en-tête."
+
+#: inc/woocommerce/class-ipr-woocommerce.php:654
+msgid "Add to basket"
+msgstr "Ajouter au panier"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:654
+#: inc/woocommerce/class-ipr-woocommerce.php:658
+#: inc/woocommerce/class-ipr-woocommerce.php:667
+msgid "Read more"
+msgstr "En lire plus"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:658
+msgid "Select options"
+msgstr "Sélectionnez les options"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:661
+msgid "View products"
+msgstr "Voir les produits"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:664
+msgctxt "placeholder"
+msgid "Buy product"
+msgstr "Acheter un produit"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:876
+msgid "Random"
+msgstr "Au hasard"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:993
+msgid "Orders"
+msgstr "Commandes"
+
+#: inc/woocommerce/class-ipr-woocommerce.php:994
+msgid "Total Spent"
+msgstr "Total Dépensé"
+
+#: inc/woocommerce/template-functions.php:68
+msgid "Shop by Category"
+msgstr "Acheter par catégorie"
+
+#: inc/woocommerce/template-functions.php:89
+#: templates/global/404-product.php:31 templates/global/404-product.php:33
+msgid "Product Categories"
+msgstr "Catégories de produits"
+
+#: inc/woocommerce/template-functions.php:125
+msgid "New Products"
+msgstr "Nuovi Prodotti"
+
+#: inc/woocommerce/template-functions.php:146
+msgid "Recent Products"
+msgstr "Produits recents"
+
+#: inc/woocommerce/template-functions.php:183
+msgid "We Recommend"
+msgstr "Nous recommandons"
+
+#: inc/woocommerce/template-functions.php:205
+msgid "Featured Products"
+msgstr "Prodotti sponsorizzati"
+
+#: inc/woocommerce/template-functions.php:241
+#: inc/woocommerce/template-functions.php:262
+#: templates/global/404-product.php:38 templates/global/404-product.php:40
+msgid "Popular Products"
+msgstr "Prodotti popolari"
+
+#: inc/woocommerce/template-functions.php:299
+msgid "On Sale"
+msgstr "En soldes"
+
+#: inc/woocommerce/template-functions.php:321
+msgid "On Sale Products"
+msgstr "Prodotti in vendita"
+
+#: inc/woocommerce/template-functions.php:357
+msgid "Best Sellers"
+msgstr "Meilleures ventes"
+
+#: inc/woocommerce/template-functions.php:378
+msgid "Best Selling Products"
+msgstr "Prodotti più venduti"
+
+#: templates/front/edit-link.php:22 templates/page/edit-link.php:22
+#: templates/single/edit-link.php:21
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Modifier <span class=\"screen-reader-text\">%s</span>"
+
+#: templates/global/404-product.php:22 templates/global/404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Cette page ne peut pas être trouvée."
+
+#: templates/global/404-product.php:23 templates/global/404.php:23
+msgid "Return home?"
+msgstr "Rentrer à la maison?"
+
+#: templates/global/404-product.php:28 templates/global/404.php:27
+msgid "Nothing found at this location."
+msgstr "Rien trouvé à cet endroit."
+
+#: templates/global/content-none.php:22
+msgid "Nothing to display."
+msgstr "Rien à afficher."
+
+#: templates/global/content-none.php:33
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre première publication? <a href=\"%1$s\">Commencez ici</"
+"a>."
+
+#: templates/global/content-none.php:47
+msgid ""
+"Sorry, nothing matched your search terms. Please try again with different "
+"keywords."
+msgstr ""
+"Désolé, rien ne correspond à vos termes de recherche. Veuillez réessayer "
+"avec des mots-clés différents."
+
+#: templates/global/content-none.php:52
+msgid ""
+"We can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Nous ne pouvons pas trouver ce que vous cherchez. Peut-être que la "
+"recherche peut aider."
+
+#: templates/global/loader.php:17
+msgid "loading..."
+msgstr "chargement..."
+
+#: templates/global/skip-links.php:16
+msgid "Skip to navigation"
+msgstr "Passer à la navigation"
+
+#: templates/global/skip-links.php:17
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: templates/global/breadcrumbs/archive-cpt.php:24
+#: templates/global/breadcrumbs/archive.php:20
+#: templates/global/breadcrumbs/author.php:20
+#: templates/global/breadcrumbs/category.php:20
+#: templates/global/breadcrumbs/date.php:31
+#: templates/global/breadcrumbs/home.php:20
+#: templates/global/breadcrumbs/page.php:20
+#: templates/global/breadcrumbs/search.php:20
+#: templates/global/breadcrumbs/single.php:20
+#: templates/global/breadcrumbs/tag.php:20
+#: templates/global/breadcrumbs/taxonomy.php:55
+#: woocommerce/global/breadcrumbs/account.php:24
+#: woocommerce/global/breadcrumbs/cart.php:25
+#: woocommerce/global/breadcrumbs/checkout.php:25
+msgid "Home"
+msgstr "Accueil"
+
+#: templates/global/breadcrumbs/archive.php:21
+msgid "Archive"
+msgstr "Archiver"
+
+#: templates/global/breadcrumbs/author.php:21
+msgid "Author"
+msgstr "Auteur"
+
+#: templates/global/breadcrumbs/category.php:21
+msgid "Category"
+msgstr "Catégorie"
+
+#: templates/global/breadcrumbs/date.php:18
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: templates/global/breadcrumbs/date.php:21
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: templates/global/breadcrumbs/date.php:24
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: templates/global/breadcrumbs/search.php:21
+msgid "Search"
+msgstr "Chercher"
+
+#: templates/global/breadcrumbs/tag.php:21
+msgid "Tag"
+msgstr "Étiquette"
+
+#: templates/global/breadcrumbs/taxonomy.php:19
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "À part"
+
+#: templates/global/breadcrumbs/taxonomy.php:22
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galeries"
+
+#: templates/global/breadcrumbs/taxonomy.php:25
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Images"
+
+#: templates/global/breadcrumbs/taxonomy.php:28
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Vidéos"
+
+#: templates/global/breadcrumbs/taxonomy.php:31
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citations"
+
+#: templates/global/breadcrumbs/taxonomy.php:34
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Liens"
+
+#: templates/global/breadcrumbs/taxonomy.php:37
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Les statuts"
+
+#: templates/global/breadcrumbs/taxonomy.php:40
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: templates/global/breadcrumbs/taxonomy.php:43
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Bavarders"
+
+#: templates/global/footer/site-credit.php:32
+#, php-format
+msgid "Theme %1$s by %2$s."
+msgstr "Thème %1$s sur %2$s."
+
+#: templates/global/header/site-navigation.php:19
+msgid "Primary Navigation"
+msgstr "Navigazione primaria"
+
+#: templates/global/header/site-navigation.php:20
+msgid "Menu"
+msgstr "Menu"
+
+#: templates/loop/content.php:26 templates/single/content.php:24
+#, php-format
+msgid "Continue reading %s"
+msgstr "Continuer la lecture de %s"
+
+#: templates/loop/content.php:37 templates/page/content.php:27
+msgid "Pages:"
+msgstr "Pages:"
+
+#: templates/loop/sticky.php:24
+msgctxt "post"
+msgid "Featured"
+msgstr "En vedette"
+
+#: templates/single/meta.php:75
+#, php-format
+msgid ""
+"By <a href=\"%1$s\" class=\"post-author-link\" rel=\"author\"><span class="
+"\"post-author-name\">%2$s</span></a>"
+msgstr ""
+"Par <span class=\"post-author\"><a href=\"%1$s\" class=\"post-author-link"
+"\" rel=\"author\"><span class=\"post-author-name\">%2$s</span></a></span>"
+
+#: woocommerce/header-cart-link.php:29
+msgid "View your basket"
+msgstr "Consulter votre panier"
+
+#: woocommerce/global/breadcrumb.php:72
+#, php-format
+msgid "No Woocommerce Breadcrumb for this type [%s] yet!"
+msgstr "Pas de fil d'Ariane Woocommerce pour ce type [%s] pour le moment!"
+
+#: woocommerce/global/quantity-input.php:20
+#: woocommerce/global/quantity-input.php:41
+#, php-format
+msgid "%s quantity"
+msgstr "%s quantité"
+
+#: woocommerce/global/quantity-input.php:20
+msgid "Quantity"
+msgstr "Quantité"
+
+#: woocommerce/global/quantity-input.php:35
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Qté"
+
+#: woocommerce/global/breadcrumbs/account.php:25
+msgid "Account"
+msgstr "Compte"
+
+#: woocommerce/single-product/pagination.php:29
+msgid "More products"
+msgstr "Più prodotti"
+
+#: woocommerce/single-product/pagination.php:36
+msgid "Display Previous Product"
+msgstr "Visualizza il prodotto precedente"
+
+#: woocommerce/single-product/pagination.php:48
+msgid "Display Next Product"
+msgstr "Visualizza il prodotto successivo"
