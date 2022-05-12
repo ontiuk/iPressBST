@@ -26,7 +26,7 @@ if ( ! $previous_product && ! $next_product ) {
 	return;
 }
 ?>
-<nav class="ipress-product-pagination" aria-label="<?php esc_attr_e( 'More products', 'ipress' ); ?>">
+<nav class="ipress-product-pagination" aria-label="<?php echo esc_attr__( 'More products', 'ipress' ); ?>">
 
 <?php if ( $previous_product ) : ?>
 	<?php

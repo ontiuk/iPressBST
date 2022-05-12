@@ -26,7 +26,7 @@ $cart_subtotal = WC()->cart->get_cart_subtotal();
 echo sprintf(
 	'<a href="%s" id="getHeaderCart" class="header-cart-link" title="%s"><span class="cart-items-total">%s</span><span class="cart-items-number">%d</span></a>',
 	esc_url( $cart_url ),
-	esc_attr_e( 'View your basket', 'ipress' ),
+	esc_attr__( 'View your basket', 'ipress' ),
 	wp_kses_post( $cart_subtotal ),
 	wp_kses_data( $cart_count )
 );
